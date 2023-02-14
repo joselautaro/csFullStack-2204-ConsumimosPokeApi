@@ -1,0 +1,9 @@
+/* nav{
+    display: flex;
+    justify-content: space-around;
+} */
+.link{
+    margin: 5px;
+    color: azure;
+    text-decoration: none;
+}
